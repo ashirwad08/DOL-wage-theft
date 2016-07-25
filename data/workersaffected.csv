@@ -1,0 +1,84 @@
+,index,NAICS3_x,NAICS3Desc,ee_violtd_cnt,EMPL_N,affected
+0,0,486,Pipeline Transportation,1245,0.0,inf
+1,1,521,Monetary Authorities-Central Bank,2494,0.0,inf
+2,2,525,"Funds, Trusts, and Other Financial Vehicles",1410,1.0,17625.0
+3,3,211,Oil and Gas Extraction,7572,22.0,4302.27272727
+4,4,113,Forestry and Logging,9072,73.0,1553.42465753
+5,5,213,Support Activities for Mining,14186,129.0,1374.6124031
+6,6,115,Support Activities for Agriculture and Forestry,806306,18095.0,556.99502625
+7,7,315,Apparel Manufacturing,47808,2981.0,200.46964106
+8,8,212,Mining (except Oil and Gas),17912,1397.0,160.272011453
+9,9,313,Textile Mills,5100,469.0,135.92750533
+10,10,336,Transportation Equipment Manufacturing,334657,31570.0,132.505939183
+11,11,324,Petroleum and Coal Products Manufacturing,29801,3535.0,105.378359264
+12,12,321,Wood Product Manufacturing,46557,5942.0,97.9405082464
+13,13,517,Telecommunications,333084,60579.0,68.7292626158
+14,14,483,Water Transportation,12775,2543.0,62.7949272513
+15,15,238,Specialty Trade Contractors,1085619,267260.0,50.7754153259
+16,16,236,Construction of Buildings,338156,91195.0,46.3506771205
+17,17,335,"Electrical Equipment, Appliance, and Component Manufacturing",22030,6716.0,41.0028290649
+18,18,811,Repair and Maintenance,261587,86277.0,37.8992952931
+19,19,237,Heavy and Civil Engineering Construction,128764,44452.0,36.2087195177
+20,20,484,Truck Transportation,194582,67869.0,35.8377904492
+21,21,623,Nursing and Residential Care Facilities,463109,162424.0,35.6404379895
+22,22,442,Furniture and Home Furnishings Stores,49536,20950.0,29.5560859189
+23,23,481,Air Transportation,3115,1375.0,28.3181818182
+24,24,492,Couriers and Messengers,63864,29837.0,26.7553708483
+25,25,561,Administrative and Support Services,898709,492614.0,22.8045944695
+26,26,485,Transit and Ground Passenger Transportation,38337,21605.0,22.1806294839
+27,27,447,Gasoline Stations,61632,35058.0,21.9750128359
+28,28,337,Furniture and Related Product Manufacturing,18893,10795.0,21.8770264011
+29,29,445,Food and Beverage Stores,310048,205133.0,18.8931083736
+30,30,562,Waste Management and Remediation Services,27403,19347.0,17.7049413346
+31,31,221,Utilities,28691,20401.0,17.5794078722
+32,32,624,Social Assistance,229644,168635.0,17.0222670264
+33,33,515,Broadcasting (except Internet),4999,3703.0,16.8748312179
+34,34,453,Miscellaneous Store Retailers,55773,42476.0,16.4130920991
+35,35,711,"Performing Arts, Spectator Sports, and Related Industries",26221,20068.0,16.3325941798
+36,36,812,Personal and Laundry Services,110262,85143.0,16.1877664635
+37,37,314,Textile Product Mills,595,485.0,15.3350515464
+38,38,488,Support Activities for Transportation,43441,36380.0,14.9261269929
+39,39,532,Rental and Leasing Services,27954,26861.0,13.0086370574
+40,40,331,Primary Metal Manufacturing,6435,6345.0,12.6773049645
+41,41,322,Paper Manufacturing,5439,5979.0,11.3710486703
+42,42,323,Printing and Related Support Activities,11144,12430.0,11.2067578439
+43,43,334,Computer and Electronic Product Manufacturing,71405,85989.0,10.3799613904
+44,44,518,"Data Processing, Hosting, and Related Services",39563,48245.0,10.2505440978
+45,45,326,Plastics and Rubber Products Manufacturing,12567,16450.0,9.54939209726
+46,46,722,Food Services and Drinking Places,546411,733473.0,9.31205034132
+47,47,519,Other Information Services,597,814.0,9.16769041769
+48,48,327,Nonmetallic Mineral Product Manufacturing,10486,14566.0,8.99869559248
+49,49,311,Food Manufacturing,66549,92700.0,8.97370550162
+50,50,522,Credit Intermediation and Related Activities,79031,123092.0,8.02560280116
+51,51,339,Miscellaneous Manufacturing,21388,34964.0,7.64643633452
+52,52,531,Real Estate,63384,103718.0,7.63898262597
+53,53,621,Ambulatory Health Care Services,240966,404494.0,7.44652578283
+54,54,721,Accommodation,76376,143782.0,6.63991320193
+55,55,541,"Professional, Scientific, and Technical Services",330680,659063.0,6.27178281894
+56,56,325,Chemical Manufacturing,7009,14629.0,5.98896028437
+57,57,332,Fabricated Metal Product Manufacturing,24337,51777.0,5.87543697008
+58,58,425,Wholesale Electronic Markets and Agents and Brokers,3909,8455.0,5.77912477824
+59,59,448,Clothing and Clothing Accessories Stores,61966,134235.0,5.77029090774
+60,60,312,Beverage and Tobacco Product Manufacturing,11692,25990.0,5.62331666025
+61,61,512,Motion Picture and Sound Recording Industries,5043,13677.0,4.6090151349
+62,62,424,"Merchant Wholesalers, Nondurable Goods",55306,150799.0,4.58441368975
+63,63,446,Health and Personal Care Stores,14383,45206.0,3.97707162766
+64,64,443,Electronics and Appliance Stores,8305,26603.0,3.90228545653
+65,65,713,"Amusement, Gambling, and Recreation Industries",38736,124675.0,3.8836976138
+66,66,524,Insurance Carriers and Related Activities,30553,101763.0,3.75296030974
+67,67,444,Building Material and Garden Equipment and Supplies Dealers,17905,59707.0,3.74851357462
+68,68,454,Nonstore Retailers,7154,30761.0,2.90709014661
+69,69,441,Motor Vehicle and Parts Dealers,22156,98202.0,2.82020732775
+70,70,452,General Merchandise Stores,27775,143654.0,2.41683141437
+71,71,333,Machinery Manufacturing,5894,32612.0,2.25913774071
+72,72,451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",4567,30076.0,1.89810812608
+73,73,611,Educational Services,25935,198209.0,1.63558415612
+74,74,622,Hospitals,33108,286341.0,1.44530472409
+75,75,423,"Merchant Wholesalers, Durable Goods",27572,259529.0,1.32798261466
+76,76,511,Publishing Industries (except Internet),8418,85782.0,1.22665594181
+77,77,712,"Museums, Historical Sites, and Similar Institutions",483,5294.0,1.14044200982
+78,78,493,Warehousing and Storage,3907,43491.0,1.12293348049
+79,79,523,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",3353,41831.0,1.00194831584
+80,80,813,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",7475,128355.0,0.727961512991
+81,81,551,Management of Companies and Enterprises,669,120639.0,0.0693183796285
+82,82,487,Scenic and Sightseeing Transportation,0,679.0,0.0
